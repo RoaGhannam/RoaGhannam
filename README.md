@@ -2,8 +2,6 @@
 
 I'm a **Software Engineer** passionate about building efficient and creative solutions.
 
----
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 ### 🔨 Languages and Tools:
@@ -22,22 +20,16 @@ I'm a **Software Engineer** passionate about building efficient and creative sol
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 
-<br><br>
-
----
+<br clear="both">
 
 ## 📊 GitHub Stats
 
 ![Roa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoaGhannam&show_icons=true&theme=radical)
-
----
 
 ## 💬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RoaGhannam) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RoaGhannam)  
 📧 roa.ghannam@example.com
-
----
 
 *"Programming is the art of turning ideas into reality."* 💻
