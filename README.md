@@ -4,6 +4,8 @@ I'm a **Software Engineer** passionate about building efficient and creative sol
 
 ---
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+
 ## 🛠️ Skills
 
 | Programming | Frameworks & Libraries | Tools & Platforms | Databases |
