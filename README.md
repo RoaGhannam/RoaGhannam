@@ -22,6 +22,15 @@ I'm a **Software Engineer** passionate about building efficient and creative sol
 
 <br clear="both">
 
+### 🧪 QA & Testing Tools:
+
+<a href="https://www.postman.com/" target="_blank"> <img align="left" alt="Postman" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/postman/postman.svg"/> </a>
+<a href="https://www.selenium.dev/" target="_blank"> <img align="left" alt="Selenium" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/selenium/selenium.svg"/> </a>
+<a href="https://junit.org/junit5/" target="_blank"> <img align="left" alt="JUnit" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/junit/junit.svg"/> </a>
+<a href="https://cucumber.io/" target="_blank"> <img align="left" alt="Cucumber" height="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/cucumber/cucumber.svg"/> </a>
+
+<br clear="both">
+
 ## 📊 GitHub Stats
 
 ![Roa's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoaGhannam&show_icons=true&theme=radical)
