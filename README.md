@@ -33,8 +33,7 @@ I'm a **Software Engineer** passionate about building efficient and creative sol
 
 ## 💬 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/RoaGhannam) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RoaGhannam)  
-📧 roa.ghannam@example.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roa-ghannam-263587292/) 
+📧 roaghannam3@gmail.com
 
 *"Programming is the art of turning ideas into reality."* 💻
