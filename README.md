@@ -59,21 +59,8 @@ I'm a **Software Engineering Student** passionate about learning and growing in 
 
 <br clear="both">
 
-### 🛠️ My Projects
-
-<a href="https://github.com/roaghannam/project1" target="_blank">
-  <img alt="project1" src="./projects/project1.svg" height="68" align="left">
-</a>
-<a href="https://github.com/roaghannam/project2" target="_blank">
-  <img alt="project2" src="./projects/project2.svg" height="68" align="left">
-</a>
-<a href="https://github.com/roaghannam/project3" target="_blank">
-  <img alt="project3" src="./projects/project3.svg" height="68" align="left">
-</a>
-
-<br clear="both">
-
 ### 💬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roa-ghan-263587292/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roaghann@gmail.com)
+*"Programming is the art of turning ideas into reality."* 💻
