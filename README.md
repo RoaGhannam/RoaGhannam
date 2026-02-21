@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Roa Ghannam
 
-I'm a **Software Engineering Student** passionate about learning and growing in tech.
+I'm a **Computer System Engineering Student** passionate about learning and growing in tech.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
