@@ -1,12 +1,20 @@
 # Hi there 👋 I'm Roa Ghannam
 
-I'm a **Software Engineer** passionate about building efficient and creative solutions.
+I'm a **Software Engineering Student** passionate about learning and growing in tech.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
 
+### 🧐 More About Me:
+
+- 🎓 I’m currently a student, learning and exploring the tech world  
+- 🎨 In my free time, I enjoy drawing and reading novels  
+- 🧪 I love QA & Testing and I’m still expanding my skills  
+- 💻 I have small projects that I’ve shared on [GitHub](https://github.com/roaghannam)  
+
+<br>
+
 ### 🔨 Languages & Tools
 
-<!-- Programming Languages -->
 <a href="https://www.python.org" target="_blank">
   <img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </a>
@@ -34,13 +42,6 @@ I'm a **Software Engineer** passionate about building efficient and creative sol
 
 <br clear="both">
 
-## More About Me
-
-🎓 I’m currently a student, learning and growing in the tech world  
-🎨 In my free time, I enjoy drawing and reading novels  
-🧪 I love QA & Testing and I’m still exploring and expanding my skills  
-💻 I have small projects shared on my GitHub  
-
 ### 🧪 QA & Testing Tools
 
 <a href="https://www.postman.com/" target="_blank">
@@ -58,9 +59,21 @@ I'm a **Software Engineer** passionate about building efficient and creative sol
 
 <br clear="both">
 
-## 💬 Connect with me
+### 🛠️ My Projects
+
+<a href="https://github.com/roaghannam/project1" target="_blank">
+  <img alt="project1" src="./projects/project1.svg" height="68" align="left">
+</a>
+<a href="https://github.com/roaghannam/project2" target="_blank">
+  <img alt="project2" src="./projects/project2.svg" height="68" align="left">
+</a>
+<a href="https://github.com/roaghannam/project3" target="_blank">
+  <img alt="project3" src="./projects/project3.svg" height="68" align="left">
+</a>
+
+<br clear="both">
+
+### 💬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roa-ghan-263587292/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roaghann@gmail.com)
-
-*"Programming is the art of turning ideas into reality."* 💻
