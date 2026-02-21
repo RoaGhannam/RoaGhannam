@@ -49,7 +49,12 @@ I'm a **Software Engineer** passionate about building efficient and creative sol
 </a>
 
 <br clear="both">
+## More About Me
 
+🎓 I’m currently a student, learning and growing in the tech world  
+🎨 In my free time, I enjoy drawing and reading novels  
+🧪 I love QA & Testing and I’m still exploring and expanding my skills in this field  
+💻 I have some small projects that I’ve shared on my GitHub  
 ### 🧪 QA & Testing Tools:
 
 <a href="https://www.postman.com/" target="_blank"> <img align="left" alt="Postman" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/> </a>
